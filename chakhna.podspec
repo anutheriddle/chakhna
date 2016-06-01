@@ -3,7 +3,7 @@
 Pod::Spec.new do |s|
 
 s.name         = "chakhna"
-s.version      = "0.0.1"
+s.version      = "0.0.2"
 s.summary      = "An iOS activity indicator view."
 s.description  = <<-DESC
 chakhna is a very good app for dry day people
